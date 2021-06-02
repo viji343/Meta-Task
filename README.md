@@ -5,7 +5,8 @@ Laravel:
  2. After get the code from git do "composer install" in respective project folder.
  3. Create database "meta" and edit .env for actual mysql credential.
  4. Do table setup run "php artisan migrate".
- 
+ 5. Do "composer test" for Test Case Development.
+
 React JS:
  1. Node and npm version should check before code.
  2. After get code do "npm install"
