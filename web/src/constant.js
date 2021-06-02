@@ -1,0 +1,1 @@
+export const BACKEND_URL = "http://localhost/meta-api/public/posters_save/";
